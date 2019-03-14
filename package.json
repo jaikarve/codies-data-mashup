@@ -1,0 +1,14 @@
+{
+  "name": "codies-data-mashup",
+  "version": "0.0.1",
+  "description": "Data mashup for the Codies demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Karve",
+  "license": "ISC",
+  "dependencies": {
+    "kinvey-flex-sdk": "^3.2.1"
+  }
+}
